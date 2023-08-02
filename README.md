@@ -1,2 +1,2 @@
-# Uzezi.github.io
+# uzezi.github.io
 Uzezi's personal website
